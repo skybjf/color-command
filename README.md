@@ -7,7 +7,7 @@ npm install color-command
 ```
 
 ```
-const ColorCommand = require('./index');
+const ColorCommand = require('color-command');
 const cmder = new ColorCommand();
 
 cmder.log('this is a normal massage ');
