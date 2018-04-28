@@ -1,0 +1,27 @@
+{
+  "name": "color-command",
+  "version": "1.0.0",
+  "description": "terminal colors command ",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skybjf/color-command.git"
+  },
+  "keywords": [
+    "terminal",
+    "colors",
+    "command"
+  ],
+  "author": "bujiangfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skybjf/color-command/issues"
+  },
+  "homepage": "https://github.com/skybjf/color-command#readme",
+  "dependencies": {
+    "colors": "^1.2.1"
+  }
+}
